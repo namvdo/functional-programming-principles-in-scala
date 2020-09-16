@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2826919e-92ce-4497-90df-4fabaa5d7182" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../java/Problems/The sum of array elements/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/Problems/The sum of array elements/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/Problems/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/course-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/course-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/.idea/jammming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/public/font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/public/font2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/public/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/App/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/App/App.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/App/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/App/background_photo_desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/Playlist/Playlist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/Playlist/Playlist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/SearchBar/SearchBar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/SearchBar/SearchBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/SearchResults/SearchResults.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/SearchResults/SearchResults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/Track/Track.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/Track/Track.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/Track/Track.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/TrackList/TrackList.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/Components/TrackList/TrackList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/src/util/Spotify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javascript/jammmimng/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ha5F3PM6XqppRNPgcTylXWt6DQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2826919e-92ce-4497-90df-4fabaa5d7182" name="Default Changelist" comment="" />
+      <created>1600236256969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600236256969</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+scalac -deprecation -classpath /Users/macbook/Desktop/projects/scala/recfun/target/scala-2.13/classes -bootclasspath /Users/macbook/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0.jar -language:implicitConversions /Users/macbook/Desktop/projects/scala/recfun/src/main/scala/recfun/RecFun.scala

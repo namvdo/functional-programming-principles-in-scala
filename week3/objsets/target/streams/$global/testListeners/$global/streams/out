@@ -1,0 +1,1 @@
+[0m[[0m[33mwarn[0m] [0m[0mGetting the hostname Brian.local was slow (5004.140718 ms). This is likely because the computer's hostname is not set. You can set the hostname with the command: scutil --set HostName $(scutil --get LocalHostName).[0m

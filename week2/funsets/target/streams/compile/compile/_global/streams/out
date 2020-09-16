@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Desktop/projects/scala/funsets/src/main/scala/funsets/FunSets.scala:28:59: value contains is not a member of FunSets.this.FunSet[0m
+[0m[[0m[31merror[0m] [0m[0m  def union(s: FunSet, t: FunSet): FunSet = (x: Int) => s.contains(x) || t.contains(x)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Desktop/projects/scala/funsets/src/main/scala/funsets/FunSets.scala:28:76: value contains is not a member of FunSets.this.FunSet[0m
+[0m[[0m[31merror[0m] [0m[0m  def union(s: FunSet, t: FunSet): FunSet = (x: Int) => s.contains(x) || t.contains(x)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

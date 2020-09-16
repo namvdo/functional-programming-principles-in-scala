@@ -1,0 +1,34 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(recfun.RecFunSuite, sbt.ForkMain$AnnotatedFingerscan@19344bf9, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mcountChange: sorted CHF[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mcountChange: sorted CHF[0m finished, took 0.064 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mcountChange: unsorted CHF[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mcountChange: unsorted CHF[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mcountChange: example given in instructions[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mcountChange: example given in instructions[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mbalance: counting is not enough[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mbalance: counting is not enough[0m finished, took 0.077 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mpascal: col=1,row=2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mpascal: col=1,row=2[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mpascal: col=1,row=3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mpascal: col=1,row=3[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mbalance: ':-)' is unbalanced[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mbalance: ':-)' is unbalanced[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mpascal: col=0,row=2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mpascal: col=0,row=2[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mbalance: '(if (zero? x) max (/ 1 x))' is balanced[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mbalance: '(if (zero? x) max (/ 1 x))' is balanced[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mcountChange: no pennies[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mcountChange: no pennies[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mbalance: 'I told him ...' is balanced[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest recfun.[33mRecFunSuite[0m.[36mbalance: 'I told him ...' is balanced[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 11 total, 0.24s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 11 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 11, Failed 0, Errors 0, Passed 11[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	recfun.RecFunSuite[0m

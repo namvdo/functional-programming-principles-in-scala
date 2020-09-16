@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Desktop/projects/scala/recfun/src/main/scala/recfun/RecFun.scala:28:7: @tailrec annotated method contains no recursive calls[0m
+[0m[[0m[31merror[0m] [0m[0m  def balance(chars: List[Char]): Boolean = {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

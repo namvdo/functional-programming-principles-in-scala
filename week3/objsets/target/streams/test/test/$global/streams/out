@@ -1,0 +1,26 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(objsets.TweetSetSuite, sbt.ForkMain$AnnotatedFingerscan@19344bf9, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36mfilter: a on set5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36mfilter: a on set5[0m finished, took 0.175 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36mfilter: on empty set[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36mfilter: on empty set[0m finished, took 0.004 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36munion: set4c and set4d[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36munion: set4c and set4d[0m finished, took 0.007 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36mdescending: set5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36mdescending: set5[0m finished, took 0.013 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36munion: with empty set1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36munion: with empty set1[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36munion: with empty set2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36munion: with empty set2[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36mfilter: twenty on set5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest objsets.[33mTweetSetSuite[0m.[36mfilter: twenty on set5[0m finished, took 0.006 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 7 total, 0.39s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 7 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 7, Failed 0, Errors 0, Passed 7[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	objsets.TweetSetSuite[0m

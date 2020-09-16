@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week6/forcomp/src/main/scala/forcomp/Anagrams.scala:36:148: postfix operator sorted needs to be enabled[0m
+[0m[[0m[31merror[0m] [0m[0mby making the implicit value scala.language.postfixOps visible.[0m
+[0m[[0m[31merror[0m] [0m[0m----[0m
+[0m[[0m[31merror[0m] [0m[0mThis can be achieved by adding the import clause 'import scala.language.postfixOps'[0m
+[0m[[0m[31merror[0m] [0m[0mor by setting the compiler option -language:postfixOps.[0m
+[0m[[0m[31merror[0m] [0m[0mSee the Scaladoc for value scala.language.postfixOps for a discussion[0m
+[0m[[0m[31merror[0m] [0m[0mwhy the feature needs to be explicitly enabled.[0m
+[0m[[0m[31merror[0m] [0m[0m  def wordOccurrences(w: Word): Occurrences = w.toLowerCase.toSeq.groupBy(x => x).toList.map({ case (char, occList) => (char, occList.length()) }) sorted[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,8 @@
+test
+console
+scutil --set HostName $(scutil --get LocalHostName).
+scutil --set HostName $(scutil --get Nam)
+test
+console
+test
+submit namdvhe140597@fpt.edu.vn v3dG1REysb4jQyU7

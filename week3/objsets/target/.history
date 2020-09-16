@@ -1,0 +1,4 @@
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/4m/hj_qjbg17kd18mnpdxp0jld80000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Applications/IntelliJ IDEA Edu.app/Contents/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+test
+submit namdvhe140597@fpt.edu.vn ARlD3Rd1H4wq22L5
+submit namdvhe140597@fpt.edu.vn hMwIlRftYxmy5TXq

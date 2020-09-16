@@ -1,0 +1,85 @@
+2020.09.13 20:09:20 INFO  started: Metals version 0.9.3 in workspace '/Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5' for client vscode.
+2020.09.13 20:09:21 INFO  time: initialize in 0.85s
+2020.09.13 20:09:23 WARN  no build tool detected in workspace '/Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.13 20:09:23 INFO  no build target: using presentation compiler with only scala-library
+2020.09.13 20:09:27 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala
+2020.09.13 20:09:53 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala in List[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala, 48, 48, 62)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala, 48, 48, 57)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala, 48, 48, 57)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala in List[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala, 62, 62, 76)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala in List[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala, 62, 62, 69)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala in List[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala, 62, 62, 70)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala, 62, 62, 71)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala, 62, 62, 71)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala, 62, 62, 71)
+Sep 13, 2020 8:11:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 325
+2020.09.13 20:11:35 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/ScalarProduct.scala
+Sep 13, 2020 8:12:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 562
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 38, 38, 52)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 38, 38, 45)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 38, 38, 47)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 38, 38, 47)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 38, 38, 47)
+Sep 13, 2020 8:15:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 13, 2020 8:15:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 13, 2020 8:15:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 13, 2020 8:16:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 926
+Sep 13, 2020 8:19:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1018
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 459, 459, 473)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 459, 459, 466)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 459, 459, 468)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 459, 459, 468)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 459, 459, 468)
+Sep 13, 2020 8:26:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1484
+2020.09.13 22:23:45 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala
+2020.09.13 22:25:23 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala
+2020.09.13 22:25:23 WARN  no build tool detected in workspace '/Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in Array[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 700, 700, 715)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in Array[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 700, 700, 708)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in Array[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 700, 700, 709)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in Array[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 700, 700, 711)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in Array[String]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 700, 700, 713)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in Array[String]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 700, 700, 713)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in Array[String]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 700, 700, 713)
+Sep 13, 2020 10:26:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2326
+2020.09.13 22:26:55 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala
+2020.09.13 22:27:00 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala
+2020.09.13 22:27:02 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala
+2020.09.13 22:27:10 WARN  no build tool detected in workspace '/Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.13 22:27:12 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala
+Sep 13, 2020 10:27:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2479
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 702, 702, 716)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[<error>]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 702, 702, 709)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 702, 702, 711)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 702, 702, 711)
+something's wrong: no file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala in List[Int]RangePosition(file:///Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala, 702, 702, 711)
+Sep 13, 2020 10:27:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2580
+2020.09.13 22:29:04 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala
+2020.09.13 22:29:33 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala
+2020.09.13 22:34:45 WARN  no build tool detected in workspace '/Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.13 22:35:32 INFO  shutting down Metals
+2020.09.14 09:14:30 INFO  started: Metals version 0.9.3 in workspace '/Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5' for client vscode.
+2020.09.14 09:14:31 INFO  time: initialize in 0.6s
+2020.09.14 09:14:31 WARN  no build tool detected in workspace '/Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.14 09:14:31 INFO  no build target: using presentation compiler with only scala-library
+2020.09.14 09:14:33 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala
+Sep 14, 2020 9:14:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Sep 14, 2020 9:14:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Sep 14, 2020 9:14:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2020.09.14 09:21:39 WARN  no build target for: /Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week5/EightQueen.scala
+2020.09.14 09:24:06 INFO  shutting down Metals

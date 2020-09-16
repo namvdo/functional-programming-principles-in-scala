@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Desktop/projects/scala/recfun/src/test/scala/recfun/RecFunSuite.scala:15:96: too many arguments (2) for method balance: (chars: List[Char])Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(balance("I told him (that it's not (yet) done).\n(But he wasn't listening)".toList, 0))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

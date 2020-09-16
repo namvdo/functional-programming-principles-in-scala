@@ -1,0 +1,4 @@
+[debug] [forcomp-test] Classpath dependencies List()
+[debug] [forcomp-test] Dependencies from configurations List(forcomp)
+[debug] Bloop wrote the configuration of project 'forcomp-test' to '/Users/macbook/Desktop/projects/scala/fp-principle-in-scala/week6/forcomp/.bloop/forcomp-test.json'
+[success] Generated .bloop/forcomp-test.json
